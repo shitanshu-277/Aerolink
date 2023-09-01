@@ -1,7 +1,7 @@
 # Airline_Management_System
 - It's a microservice based project.
 - It comprises of five services given below:
-   - FlightsAndSearchService : [link](../FlightsAndSearchService)
+   - FlightsAndSearchService : [link](https://github.com/shitanshu-277/FlightsAndSearchService)
    - ReminderService :
    - Auth_Service :
    - AirTicketBookingService :
